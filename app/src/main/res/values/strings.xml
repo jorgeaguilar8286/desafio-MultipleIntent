@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DesafioMultipleIntent</string>
+    <string name="cargar_imagen">Cargar Imagen</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="seccion_imagenes">Sección de carga de imágenes</string>
+    <string name="logo">Logo</string>
+    <string name="abrir_web">Abrir Web</string>
+    <string name="compartir_informacion">Compartir la información</string>
+</resources>
